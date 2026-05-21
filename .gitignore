@@ -1,0 +1,24 @@
+# ── Python / Django ───────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.env
+*.sqlite3
+staticfiles/
+.python-version
+
+# ── OS / editors ──────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
